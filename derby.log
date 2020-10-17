@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Dec 13 16:11:05 EST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.1.3 - (1853019): instance a816c00e-016f-0119-cb45-00000f3c2750 
+on database directory /home/ana/DatabaseProject/RegistrarDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5bc2b487 
+Loaded from file:/opt/Apache/db-derby-10.15.1.3-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=13.0.1+9
+user.dir=/home/ana/DatabaseProject
+os.name=Linux
+os.arch=amd64
+os.version=5.3.0-24-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
